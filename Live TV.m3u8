@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:19, TVU
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Quellon
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UCV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Cocina
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Cultura
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Teleseries
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, ChileVision Noticias
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:0, CNN Chile
+https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:0, TV+
+https://jireh-10-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8?dpssid=b21027267028689350d9ccc3d&sid=ba5t1l1xb2139768370369543b5eeeee4&ndvc=0
+#EXTINF:0, NTV Chile
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+#EXTINF:0, La Red
+https://d2qsan2ut81n2k.cloudfront.net/live/5d5c158e-721f-46d5-b375-d62875636b41/ts:abr.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2F5d5c158e-721f-46d5-b375-d62875636b41%2Fts%3Aabr.m3u8%22%2Csid%3D%22db575bbd-da60-4a7c-aee3-d0c995a095f6%22
+#EXTINF:0, TVN
+http://138.36.253.13:8008/play/064/index.m3u8
+#EXTINF:0, MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Chilevision
+http://138.36.253.13:8008/play/066/index.m3u8
+#EXTINF:0, Canal 13
+http://148.222.230.220:8000/play/a01w
+#EXTINF:0, Canal 13 Internacional
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:0, Animal Planet
+http://201.182.249.198:10013/play/a0h4/index.m3u8
+#EXTINF:0, Love Nature
+http://181.78.82.6:46090/play/a059/index.m3u8
+#EXTINF:0, Discovery Channel
+http://181.78.211.244:8005/play/a08i/index.m3u8
+#EXTINF:0, Discovery Turbo
+http://181.78.211.244:8005/play/a081/index.m3u8
+#EXTINF:0, Discovery World
+http://181.78.82.6:46090/play/a069/index.m3u8
+#EXTINF:0, National Geographic
+http://181.78.211.244:8005/play/a099/index.m3u8
+#EXTINF:0, Investigation Discovery
+http://181.78.211.244:8005/play/a095/index.m3u8
+#EXTINF:0, Warner HD
+http://181.78.82.6:46090/play/a00f/index.m3u8
+#EXTINF:0, Universal
+http://181.78.211.244:8005/play/a09c/index.m3u8
+#EXTINF:0, Cinecanal
+http://181.78.211.244:8005/play/a09b/index.m3u8
+#EXTINF:0, Cinemax
+http://181.78.211.244:8005/play/a07t/index.m3u8
+#EXTINF:0, HBO
+http://138.36.253.13:8008/play/a008/index.m3u8
+#EXTINF:0, HBO 2
+http://138.36.253.13:8008/play/a00b/index.m3u8
+#EXTINF:0, HBO Family
+http://138.36.253.13:8008/play/a009/index.m3u8
+#EXTINF:0, HBO Plus
+http://201.217.246.84:9000/play/a07n/index.m3u8
+#EXTINF:0, HBO Signature
+http://201.217.246.84:9000/play/a06h/index.m3u8
+#EXTINF:0, HBO Xtreme
+http://138.36.253.13:8008/play/a00a/index.m3u8
+#EXTINF:0, AMC
+http://138.36.253.13:8008/play/a023/index.m3u8
+#EXTINF:0, Space
+http://181.78.211.244:8005/play/a07w/index.m3u8
+#EXTINF:0, TCM
+http://181.78.211.244:8005/play/a09e/index.m3u8
+#EXTINF:0, TNT
+http://181.78.211.244:8005/play/a09g/index.m3u8
+#EXTINF:0, TNT Series
+http://181.78.211.244:8005/play/a09l/index.m3u8
+#EXTINF:0, Paramount
+http://181.78.82.6:46090/play/a06e/index.m3u8
+#EXTINF:0, ESPN
+http://181.78.211.244:8005/play/a08q/index.m3u8
+#EXTINF:0, ESPN 2
+http://181.78.211.244:8005/play/a08r/index.m3u8
+#EXTINF:0, ESPN 3
+http://181.78.211.244:8005/play/a08s/index.m3u8
+#EXTINF:0, ESPN 4
+http://181.78.211.244:8005/play/a08w/index.m3u8
+#EXTINF:0, ESPN Premium
+http://181.78.82.6:46090/play/a075/index.m3u8
+#EXTINF:0, Adult Swim
+http://138.36.253.13:8008/play/a02e/index.m3u8
+#EXTINF:0, Cartoon Network
+http://181.78.211.244:8005/play/a09z/index.m3u8
+#EXTINF:0, Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Retro Plus TV Señal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Retro Plus TV Señal 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Carolina TV 2
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, ADN
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Radio Romantica
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL
+#EXTINF:0, Radio Agricultura
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Radio Agricultura 2
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
+#EXTINF:0, Puranoticia
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:0, Pudahuel FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, El Conquistador Santiago
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, El Conquistador La Serena
+https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8?PlaylistM3UCL
+#EXTINF:0, El Conquistador Concepcion
+https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL
+#EXTINF:0, Pasion Ranchera
+https://tv.arkeo.cl:19360/8068/8068.m3u8?WebM3UCL
