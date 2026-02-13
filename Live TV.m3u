@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/1XwfY406/TVU.png", TVU
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/1XwfY406/TVU.png" tvg-country="CL", TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/7P2GLQv6/Canal2Quellon.png", Canal 2 Quellon
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/7P2GLQv6/Canal2Quellon.png" tvg-country="CL", Canal 2 Quellon
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 type="stream" tvg-id="3687" group="Channels" tvg-logo="https://i.postimg.cc/4yVmFnvG/TVR.png", TVR
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/5NWHQq1B/UCV.png", UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
@@ -14,10 +11,10 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/y6ZgNrqH/UCV2.png", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="1669" group="Channels" tvg-logo="https://i.postimg.cc/sx7v01Px/13Cocina.png", 13 Cocina
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/sx7v01Px/13Cocina.png", 13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="2467" group="Channels" tvg-logo="https://i.postimg.cc/dtc7Zmvn/13cultura.png", 13 Cultura
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/dtc7Zmvn/13cultura.png", 13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/WbcDq6jX/13Festival.png", 13 Festival
@@ -32,47 +29,134 @@ https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/50HHLs6H/13Viajes.png", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/76p5VS21/T13.png" tvg-country="CL", T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/Nf8K69f4/CHVNoticias.png", ChileVisión Noticias
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
-
 #EXTINF:0 type="stream" tvg-id="Canal.24.Horas.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/G3y8pgWN/Canal24Horas.png" tvg-country="CL", Canal 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 
-#EXTINF:0 type="stream" tvg-id="Canal.CNN.Chile.cl" group="Channels" tvg-logo="https://i.postimg.cc/5yL6kj5Y/CNNChile_tvg-logo.png", CNN Chile
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/Nf8K69f4/CHVNoticias.png", ChileVision Noticias
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/76p5VS21/T13.png" tvg-country="CL", T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 type="stream" tvg-id="Canal.CNN.Chile.cl" group="Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png", CNN Chile
 https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
-#EXTINF:0 type="stream" tvg-id="1569" group="Channels" tvg-logo="https://i.postimg.cc/hjHXrVmR/TV.png", TV+
+#EXTINF:0 type="stream" tvg-id="Canal.CNN.en.Español.cl" group="Channels" tvg-logo="https://images.seeklogo.com/logo-png/30/1/cnn-en-espanol-logo-png_seeklogo-302203.png", CNN en español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/hjHXrVmR/TV.png", TV+
 https://jireh-10-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8?dpssid=b21027267028689350d9ccc3d&sid=ba5t1l1xb2139768370369543b5eeeee4&ndvc=0
 
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/xCkkM6cy/NTVChile.png", NTV Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF:0 type="stream" tvg-id="Canal.La.Red.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/05wMNXTT/La_Red_tvg-logo.png", La Red
+#EXTINF:0 type="stream" tvg-id="Canal.La.Red.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/05wMNXTT/La_Red_Logo.png", La Red
 https://d2qsan2ut81n2k.cloudfront.net/live/5d5c158e-721f-46d5-b375-d62875636b41/ts:abr.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2qsan2ut81n2k.cloudfront.net%2Flive%2F5d5c158e-721f-46d5-b375-d62875636b41%2Fts%3Aabr.m3u8%22%2Csid%3D%22db575bbd-da60-4a7c-aee3-d0c995a095f6%22
 
-#EXTINF:0 type="stream" tvg-id="Canal.TVN.(Chile).cl" tvg-logo="https://i.postimg.cc/0yQPrYxz/TVN.png" tvg-country="CL", TVN
-http://190.187.200.244:8000/play/a0oa/index.m3u8
+
+
+#EXTINF:0 type="stream" tvg-id="Canal.TVN.(Chile).cl" tvg-logo="https://i.postimg.cc/0yQPrYxz/TVN.png" tvg-country="CL", TVN SD
+http://190.151.80.242:9990/play/a0kc/index.m3u8
 
 #EXTINF:0 type="stream" tvg-id="Canal.Mega.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/B688HmXh/Mega.png" tvg-country="CL", MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="Canal.Chilevisión.(CHV).cl" group="Channels" tvg-logo="https://i.postimg.cc/PxLLYSPP/Chilevision.png", Chilevision
-http://190.187.200.244:8000/play/a0ob/index.m3u8
+#EXTINF:0 type="stream" tvg-id="Canal.Chilevisión.(CHV).cl" group="Channels" tvg-logo="https://i.postimg.cc/PxLLYSPP/Chilevision.png", Chilevision SD
+http://190.151.80.242:9990/play/a0ke/index.m3u8
 
-#EXTINF:0 type="stream" tvg-id="Canal.13.de.Chile.cl" tvg-logo="https://i.postimg.cc/L8X2htRY/Canal13.png" tvg-country="CL", Canal 13
-http://190.187.200.244:8000/play/a0pj/index.m3u8
+#EXTINF:0 type="stream" tvg-id="Canal.13.de.Chile.cl" tvg-logo="https://i.postimg.cc/L8X2htRY/Canal13.png" tvg-country="CL", Canal 13 SD
+http://190.151.80.242:9990/play/a0kf/index.m3u8
+
+
+
 
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/vHw1xLMb/13Internacional.png", Canal 13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://cdn.m3u.cl/logo/1530_13_go.png", 13 Go
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/c4GKtMZc/TVN3.png", TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/TwyygtpD/TVChile.png" tvg-country="CL", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/k5FG3PvR/Love-The-Planet.png" tvg-country="CL", Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:0 type="stream" tvg-id="Canal.Discovery.Channel.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/3rv4wbM7/Discovery_Logo.png" tvg-country="CL", Discovery HD
+http://181.128.145.103:4000/play/a05c/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.Discovery.Turbo.(Latinoamérica).cl" group="Channels" tvg-logo="https://i.postimg.cc/1tL8HDqj/Discovery_Turbo_Logo.png" tvg-country="CL", Discovery Turbo
+http://181.128.145.103:4000/play/a033/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.National.Geographic.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/c4GKtMZs/National_Geographic_Logo.png" tvg-country="CL", Nat Geo HD
+http://181.128.145.103:4000/play/a0d8/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.Investigation.Discovery.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/kGKBhDNN/IDLogo.png" tvg-country="CL", Investigation Discovery
+http://181.128.145.103:4000/play/a0dc/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.HBO.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/k4k2cWSm/HBOLogo.png" tvg-country="CL", HBO
+http://181.128.145.103:4000/play/a056/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.HBO.2.Latinoamérica.cl" group="Channels" tvg-logo="https://i.postimg.cc/gcZX0tCQ/HBO2Logo.png" tvg-country="CL", HBO 2
+http://190.151.80.242:9990/play/a0ki/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.HBO.Family.Latinoamérica.cl" group="Channels" tvg-logo="https://i.postimg.cc/C1WRNbq7/HBOfamily_Logo.png" tvg-country="CL", HBO Family
+http://181.128.145.103:4000/play/a0ca/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.HBO.Plus.cl" group="Channels" tvg-logo="https://i.postimg.cc/gJww8gny/HBOPlus_Logo.png" tvg-country="CL", HBO Plus
+http://190.151.80.242:9990/play/a0kj/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.HBO.Xtreme.cl" group="Channels" tvg-logo="https://i.postimg.cc/bN0ZxDNx/HBOXtreme_Logo.png" tvg-country="CL", HBO Xtreme
+http://181.128.145.103:4000/play/a0cu/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.Space.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/1XwfY40t/Space_Logo.png" tvg-country="CL", Space HD
+http://181.128.145.103:4000/play/a053/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.TNT.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/L41Ys0d2/TNTLogo.png", TNT HD
+http://181.128.145.103:4000/play/a061/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.ESPN.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/Nfvy27YM/ESPNLogo.png", ESPN SD
+http://190.151.80.242:9990/play/a0jn/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.ESPN.2.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/pT99zspc/ESPN2Logo.webp", ESPN 2 SD
+http://190.151.80.242:9990/play/a0kp/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.ESPN.3.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/d177r5LS/ESPN3Logo.webp", ESPN 3 SD
+http://190.151.80.242:9990/play/a0lx/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/d1zhBGyz/Adult_Swimlogo.png", Adult Swim
+http://45.226.205.96:8000/play/a01b/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="Canal.Cartoon.Network.(Chile).cl" group="Channels" tvg-logo="https://i.postimg.cc/HWycLPGV/Cartoon_Network.png", Cartoon Network
+http://45.226.205.96:8000/play/a011/index.m3u8
+
+
+
+
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8733d77d3a29296b066646316f579c48.webp" tvg-country="CL", Grjngo - Películas Del Oeste
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/586386166b8d99d95d88a028fa229159.webp" tvg-country="CL", Runtime Clásicos
+https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/51e560600b65af19f305f491df5d04ac.webp" tvg-country="CL", Free TV Clásico
+https://amg01024-olympusat-cineclasicoco-lgco-a8u19.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" tvg-country="CL", Free TV Acción
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" tvg-country="CL", Free TV Drama
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e30e4537eb2ea84cff9fd51e0181317.webp" tvg-country="CL", Free TV Hits
+https://amg01024-olympusat-flash-ono-ad-3q.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/MZQMGrkZ/Retro_Plus.png", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
@@ -89,7 +173,10 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/151gVcPw/VClassic_TVTropical.png", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/59Shvsxs/Carolina-tvg-logo.png", Carolina TV 2
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/xTmZ0gXP/Pasion-Ranchera.png", Pasion Ranchera
+https://tv.arkeo.cl:19360/8068/8068.m3u8?WebM3UCL
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/59Shvsxs/Carolina-Logo.png", Carolina TV 2
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/7h0fQb12/Biobio_TV.png", Bio Bio TV
@@ -113,14 +200,26 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/R0Y8SYLt/Pudahuel-FM.png", Pudahuel FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/QdwZVSZh/Conquistador_tvg-logo.png", El Conquistador Santiago
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/QdwZVSZh/Conquistador_Logo.png", El Conquistador Santiago
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/QdwZVSZh/Conquistador_tvg-logo.png", El Conquistador La Serena
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/QdwZVSZh/Conquistador_Logo.png", El Conquistador La Serena
 https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/QdwZVSZh/Conquistador_tvg-logo.png", El Conquistador Concepcion
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/QdwZVSZh/Conquistador_Logo.png", El Conquistador Concepcion
 https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL
 
-#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/xTmZ0gXP/Pasion-Ranchera.png", Pasion Ranchera
-https://tv.arkeo.cl:19360/8068/8068.m3u8?WebM3UCL
+#EXTINF:0 type="stream" tvg-id="3687" group="Channels" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" tvg-id="3687" group="Channels" tvg-logo="https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png", Marga Marga TV
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://i.postimg.cc/4yVmFnvG/TVR.png" tvg-country="CL", TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg", RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:0 type="stream" tvg-id="-1" group="Channels" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0ff78240cc23f1868ce2a008a92c58d.webp", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
